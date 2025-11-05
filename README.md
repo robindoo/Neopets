@@ -1,7 +1,7 @@
 Avatar Counter:
 - Retired : 75 (excluded the 5 that does not count to your total)
 - Annual: 38
-- Active: 405 (as of 02 Nov, excluded Space Faerie)
+- Active: 406 (as of 04 Nov, excluded Space Faerie)
 
 - Changelog
 - - 24 Oct: Added Esophagor Avatar
